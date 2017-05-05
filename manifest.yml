@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: pc1ChumpitaziC
+  host: pc1ChumpitaziC
+  disk_quota: 1024M
